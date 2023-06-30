@@ -1,0 +1,9 @@
+from statsmodels.tsa.arima.model import ARIMA
+from pmdarima.arima import auto_arima
+pmdarima==2.0.2
+prophet==1.1.2
+pmdarima==2.0.2
+prophet==1.1.2
+pmdarima==2.0.2
+pmdarima==2.0.2
+statsmodels==0.14.0
