@@ -1,3 +1,4 @@
 # FBLA-Data-23
-Sang Hyun Chun, Vishwa Murugappan, Shreyas Sundar '23 Project
-7th Place @ FBLA NLC 2023
+7th Place in Data Analysis @ FBLA NLC 2023
+
+Created by Sang Hyun Chun, Vishwa Murugappan, Shreyas Sunda
