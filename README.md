@@ -1,2 +1,3 @@
 # FBLA-Data-23
-Vishwa, Shreyas, Hyun '23 Project
+Sang Hyun Chun, Vishwa Murugappan, Shreyas Sundar '23 Project
+7th Place @ FBLA NLC 2023
